@@ -6,16 +6,9 @@
         // Agrega un método (funcion) llamado "meow" que devuelva el string "Meow!"
         // Devuelve el objeto
         // Tu código:
-    let objeto = {
-      nombre : nombre,
-      edad: edad,
-      meow: () =>  'Meow!',
-      
-    }
-    return objeto
+  
     }
     
-      console.log(crearGato('michi', 2))
 
       function nuevoUsuario (nombre, email, password) {
         // Crea un nuevo objeto con las propiedades coincidiendo con los argumentos que se pasan a la función
